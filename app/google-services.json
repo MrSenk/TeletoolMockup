@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "413373595526",
+    "firebase_url": "https://teletoolmockup.firebaseio.com",
+    "project_id": "teletoolmockup",
+    "storage_bucket": "teletoolmockup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413373595526:android:9fb25d8a80849d61",
+        "android_client_info": {
+          "package_name": "com.example.camil.teletoolmockup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413373595526-il84d0ghdmtb7vb7lns9v59hec144hg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camil.teletoolmockup",
+            "certificate_hash": "6467C1C81ADC041768ADF51D5B23689C38F79DDD"
+          }
+        },
+        {
+          "client_id": "413373595526-6tolea6it7ibqggar7asd6fj5a7vpfoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB42k3BFVGhb-3LmWXF9ZxskmIutjRCDvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413373595526-6tolea6it7ibqggar7asd6fj5a7vpfoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
